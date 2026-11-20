@@ -198,6 +198,8 @@ SYNcro \
 
 ### CT only
 
+*This repository is now archived. The actively developed version is on [neurodesk webapps](https://github.com/neurodesk/webapps/tree/main/apps/syncro)*
+
 This example provides a CT scan and a lesion map drawn in the same image space. The `--ct` option tells SynthSR that the input intensities are Hounsfield units, allowing it to process the CT appropriately.
 
 | Input: CT with lesion | Output: normalized CT with lesion | Output: normalized synthetic T1w |
